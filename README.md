@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James Greer
+- 👋 Hi, I’m James Greer
 - 👀 I’m interested in being employed
 - 🌱 I’m currently learning Java
 <!---
